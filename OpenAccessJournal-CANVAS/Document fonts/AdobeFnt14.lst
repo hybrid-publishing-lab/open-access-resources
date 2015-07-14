@@ -1,0 +1,158 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DroidSansMono
+FamilyName:Droid Sans Mono
+StyleName:Regular
+MenuName:Droid Sans Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Droid Sans Mono
+WritingScript:Roman
+OutlineFileName:\DroidSansMono.ttf
+DataFormat:sfntData
+FileLength:117072
+FileModTime:1373990870
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Graziano
+FamilyName:Graziano
+StyleName:Medium
+MenuName:Graziano
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Graziano
+WritingScript:Roman
+OutlineFileName:\Graziano.ttf
+DataFormat:sfntData
+FileLength:73364
+FileModTime:1326524002
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1421752864
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+MenuName:Open Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Bold
+WritingScript:Roman
+OutlineFileName:\OpenSans-Bold.ttf
+DataFormat:sfntData
+FileLength:224592
+FileModTime:1370355124
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-CondensedBold
+FamilyName:Open Sans Condensed
+StyleName:Bold
+MenuName:Open Sans Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Open Sans Condensed Bold
+WritingScript:Roman
+OutlineFileName:\OpenSans-CondBold.ttf
+DataFormat:sfntData
+FileLength:264372
+FileModTime:1370355128
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+MenuName:Open Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Open Sans
+WritingScript:Roman
+OutlineFileName:\OpenSans-Regular.ttf
+DataFormat:sfntData
+FileLength:217360
+FileModTime:1370355120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Semibold
+FamilyName:Open Sans
+StyleName:Semibold
+MenuName:Open Sans Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Semibold
+WritingScript:Roman
+OutlineFileName:\OpenSans-Semibold.ttf
+DataFormat:sfntData
+FileLength:221328
+FileModTime:1370355122
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-SemiboldItalic
+FamilyName:Open Sans
+StyleName:Semibold Italic
+MenuName:Open Sans Semibold
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Open Sans Semibold Italic
+WritingScript:Roman
+OutlineFileName:\OpenSans-SemiboldItalic.ttf
+DataFormat:sfntData
+FileLength:212820
+FileModTime:1370355122
+%EndFont
+

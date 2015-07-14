@@ -1,0 +1,103 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: OpenAccessJournal-CANVAS.indd
+
+PACKDATUM: 13.07.15 10:14
+Erstellungsdatum 13.07.15
+Änderungsdatum: 13.07.15
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 2
+
+InDihyphCoreCS6.InDesignPlugin
+InDitectCoreCS6.InDesignPlugin
+
+
+Nicht deckende Objekte:Auf Seite1
+
+SCHRIFTARTEN
+8 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: DroidSansMono; Typ: TrueType, Status: OK
+- Name: Graziano; Typ: TrueType, Status: OK
+- Name: MinionPro-Regular; Typ: OpenType Type 1, Status: OK
+- Name: OpenSans; Typ: OpenType TrueType, Status: OK
+- Name: OpenSans-Bold; Typ: OpenType TrueType, Status: OK
+- Name: OpenSans-CondensedBold; Typ: TrueType, Status: OK
+- Name: OpenSans-Semibold; Typ: OpenType TrueType, Status: OK
+- Name: OpenSans-SemiboldItalic; Typ: OpenType TrueType, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 1 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+- Name und Typ: 0c 0m 100y 0k; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 3 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 1 eingebettet, 1 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: Dell MFP Laser 3115cn v3015.103 PS, (Incubator Kitchen)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: A3
+Papierabmessungen: 209,903 mm x 297,039 mm
+Format: Querformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. OpenAccessJournal-CANVAS.indd; Typ: Adobe InDesign-Satzdatei; Größe: 2456K
+2. DroidSansMono.ttf; Typ: Schriftartendatei; Größe: 114K
+3. Graziano.ttf; Typ: Schriftartendatei; Größe: 71K
+4. MinionPro-Regular.otf; Typ: Schriftartendatei; Größe: 212K
+5. OpenSans-Regular.ttf; Typ: Schriftartendatei; Größe: 212K
+6. OpenSans-Bold.ttf; Typ: Schriftartendatei; Größe: 219K
+7. OpenSans-CondBold.ttf; Typ: Schriftartendatei; Größe: 258K
+8. OpenSans-Semibold.ttf; Typ: Schriftartendatei; Größe: 216K
+9. OpenSans-SemiboldItalic.ttf; Typ: Schriftartendatei; Größe: 207K
