@@ -1,8 +1,6 @@
-# Starting an Open Access Journal
+#Open Access Resources
 
-This repsository contains information on starting an Open Access journal. The materials have been assembled by members of the Hybrid Publihsing Lab at the Centre for Digital Cultures, Leuphana University Lüneburg.
-
-While the poster and the identical slides file provides you with some general information on what to consider when starting an Open Access journal the canvas provides space for developing your own conepts.
+This repsository contains resources for Open Access publishers and people interested in becoming one. The materials have been assembled by members of the Hybrid Publihsing Lab at the Centre for Digital Cultures, Leuphana University Lüneburg.
 
 ##License
 
